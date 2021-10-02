@@ -1,1 +1,11 @@
 # ADA-practicle
+Binarysearch
+BinomialCoefficient
+Bubblesort
+FloydWarshall
+Heatsort
+MatrixChainMultiplication
+MergeSort
+Quickshort
+knapsack
+longestCommonSubsequence
