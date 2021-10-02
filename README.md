@@ -2,10 +2,10 @@
 1. Binarysearch
 2. BinomialCoefficient
 3. Bubblesort
-FloydWarshall
-Heatsort
-MatrixChainMultiplication
-MergeSort
-Quickshort
-knapsack
-longestCommonSubsequence
+4. FloydWarshall
+5. Heatsort
+6. MatrixChainMultiplication
+7. MergeSort
+8. Quickshort
+9. knapsack
+10. longestCommonSubsequence
