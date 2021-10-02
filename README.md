@@ -1,7 +1,7 @@
 # ADA-practicle
-Binarysearch
-BinomialCoefficient
-Bubblesort
+1. Binarysearch
+2. BinomialCoefficient
+3. Bubblesort
 FloydWarshall
 Heatsort
 MatrixChainMultiplication
